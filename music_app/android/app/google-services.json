@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992201840808",
+    "project_id": "music-app-eddbb",
+    "storage_bucket": "music-app-eddbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992201840808:android:6e0c87f5842de14abb0a9d",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBte97bCQ1fIPMGtIDw4jQoRFM_XZqcOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
